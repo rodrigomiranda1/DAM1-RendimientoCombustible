@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculadora de Rendimiento</string>
+    <string name="titulo_main">Rendimiento de combustible</string>
+    <string name="subtitulo_main">Completa los datos</string>
+
+    <string name="etiqueta_nombre">Nombre</string>
+    <string name="etiqueta_distancia">Distancia recorrida en km</string>
+    <string name="etiqueta_combustible">Combustible utilizado en L</string>
+
+    <string name="boton_calcular">Calcular resultado</string>
+    <string name="pie_errores">Errores debajo del campo afectado</string>
+
+    <string name="titulo_resultado">Resultado del cálculo</string>
+    <string name="prefijo_resultado_nombre">Resultado de %s</string>
+    <string name="etiqueta_rendimiento">Rendimiento</string>
+    <string name="formato_rendimiento">%.2f km/L</string>
+    <string name="pie_clasificacion">Clasificación según los criterios\ndefinidos en esta tarea.</string>
+    <string name="boton_recalcular">Realizar otro cálculo</string>
+
+    <string name="error_nombre_vacio">El nombre no puede estar vacío.</string>
+    <string name="error_numero_invalido">Ingrese un número válido entre 0 y 1 000 000.</string>
+
+    <!-- Clasificaciones -->
+    <string name="class_low">Rendimiento bajo</string>
+    <string name="class_medium">Rendimiento medio</string>
+    <string name="class_good">Buen rendimiento</string>
+    <string name="class_excellent">Rendimiento excelente</string>
+</resources>
